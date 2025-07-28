@@ -1,0 +1,20 @@
+body{
+  background-image:url(./assets/scotland.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+
+.clock{
+  margin-top: 8%;
+  margin-right: 10%;
+  text-align: right;
+  color: black;
+  text-shadow: 3px 3px 5px rgba(34, 34, 34, 0.655);
+ font-size: 6rem;
+  font-family: monospace;
+  font-weight:bold ;
+
+}
